@@ -24,3 +24,4 @@ echo "forward-implementation-first"
 # drop an unused branch
 # guard against empty input
 # keep defaults in sync with the manifest
+# clarify the control flow
